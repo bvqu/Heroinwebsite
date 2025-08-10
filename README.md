@@ -17,7 +17,4 @@ A sleek, red-and-black themed website for [HeroinBot] Built with modern web tech
 - **Hosting**: GitHub Pages / Vercel / Netlify (or your choice)
 - **Tools**: Webpack, Babel (if applicable)
 
-## 🚀 Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/heroinbot-website.git
+
